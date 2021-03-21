@@ -1,4 +1,3 @@
-# route_usage
 ## Routing tips for VPNs on OS X
 
 When VPNs just work, they're a fantastic way of allowing access to a private network from remote locations. When they don't work it can be an experience in frustration. I've had situations where I can connect to a VPN from my Mac, but various networking situations cause routing conflicts. Here are a couple of cases and how I've been able to get around them.
